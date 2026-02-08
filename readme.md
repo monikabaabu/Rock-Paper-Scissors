@@ -1,23 +1,16 @@
 # 🎮 Rock Paper Scissors Game ✨
 
-A fun, interactive **Rock–Paper–Scissors** web game built using **HTML, CSS, and JavaScript**.  
-Play against the computer, enjoy smooth animations, emoji-based choices, and real-time score tracking — simple, stylish, and addictive 😌💥
+A fun and interactive **Rock–Paper–Scissors** web game built using **HTML, CSS, and JavaScript**.  
+Play against the computer with emoji-based choices, smooth animations, and real-time score tracking 😌🎮
 
 ---
 
-## 🌸 Demo
-🕹️ Click on Rock 🗿, Paper 📜, or Scissors ✂️ and challenge the computer!  
-Results and scores update instantly after every round.
-
----
-
-## 🧠 Features
-✨ Emoji-based UI for intuitive gameplay  
-🎲 Randomized computer moves  
-📊 Live score tracking (Player vs Computer)  
-💫 Smooth hover & click animations  
-🧊 Glassmorphism-style background  
-📱 Responsive and clean design  
+## ✨ Features
+- 🗿 📜 ✂️ Emoji-based gameplay
+- 🎲 Randomized computer moves
+- 📊 Live score tracking
+- 💫 Smooth hover & click animations
+- 🧊 Glassmorphism-style UI
 
 ---
 
@@ -28,15 +21,27 @@ Results and scores update instantly after every round.
 
 ---
 
-## 📂 Project Structure
-
----
+## 📁 Project Structure
+```
 Rock-Paper-Scissors/
-│
-├── index.html # Structure of the game
-├── index.css # Styling & animations
-├── index.js # Game logic
-└── bg.jpg # Background image
+|
+|-- index.html      
+|-- index.css    
+|-- index.js     
+|-- bg.jpg      
+```
 
 ---
 
+## 🚀 How to Run Locally
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/rock-paper-scissors.git
+   ```
+2. Open `index.html` in your browser
+3. Play and enjoy 🎉
+
+---
+
+
+⭐ If you like this project, don’t forget to **star the repo** 💖
